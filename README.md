@@ -1,0 +1,2 @@
+# PAN-Card-Validation-in-SQL-Real-World-Data-Cleaning-Validation-Project
+This project demonstrates a complete end-to-end SQL-based data cleaning and validation pipeline for Indian Permanent Account Numbers (PAN). It includes data preprocessing, custom PL/pgSQL functions, regex validations, and a final summary report—similar to what is expected in real-world data engineering and analytics scenarios.
